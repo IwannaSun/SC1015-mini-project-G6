@@ -1,3 +1,0 @@
-calplot
-calmap
-pandas
