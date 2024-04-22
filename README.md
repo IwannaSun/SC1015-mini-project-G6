@@ -16,9 +16,9 @@ Variables include flight routes (origin, destination), time ranges for events (m
 - How do various factors affect the status of a flight (On-time, delay, Cancelled)
 
 ### Contributors
- - Sai Harsha Venugopal 
- - Mustafa Poonawala
- - Sun Yifei
+ - Sai Harsha Venugopal - Presentation and Slides
+ - Mustafa Poonawala - Data Cleaning & Analysis
+ - Sun Yifei - Analysis with Models & Conclusion
 
 ### Overview
 The project starts with data cleaning, which includes categorizing columns, removing unnecessary data and checking the completeness of the dataset. The exploratory data analysis section investigates airlines, types of delays, and flights categorized by time and location.
