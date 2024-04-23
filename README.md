@@ -55,7 +55,7 @@ The journey has imparted valuable insights and skills, including:
     - BernoulliNB
     - BaggingClassifier
     - RandomForestClassifier
-    - GradientBoosterClassifier
+    - GradientBoostingClassifier
 
 - Mastery of polynomial features, a crucial concept in enhancing model performance.
 
